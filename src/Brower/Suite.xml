@@ -1,0 +1,7 @@
+<suite name="selenium.cn.demo">
+    <test name="test_selenium">
+    	<classes>
+    	    <class name="com.selenium.TestBrowsers"/>
+    
+    </test>
+</suite>
